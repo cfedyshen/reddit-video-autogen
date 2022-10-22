@@ -3,6 +3,6 @@ This Python application automatically generates short form videos by scraping an
 
 
 ## Usage
-'''
-python3 
-'''
+```
+python3 shortFormScraper.py <subreddit name> <top post number to fetch>
+```
