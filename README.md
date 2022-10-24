@@ -6,3 +6,7 @@ This Python application automatically generates short form videos by scraping an
 ```
 python3 shortFormScraper.py <subreddit name> <top post number to fetch>
 ```
+
+
+https://user-images.githubusercontent.com/75519874/197426300-c55f4320-84a9-4ff0-a250-885775d46cc8.mp4
+
