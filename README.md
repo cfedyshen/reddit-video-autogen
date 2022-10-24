@@ -8,5 +8,8 @@ python3 shortFormScraper.py <subreddit name> <top post number to fetch>
 ```
 
 
-https://user-images.githubusercontent.com/75519874/197426300-c55f4320-84a9-4ff0-a250-885775d46cc8.mp4
+
+https://user-images.githubusercontent.com/75519874/197426380-221c2191-477b-466b-87b1-87d0bd78b399.mp4
+
+
 
